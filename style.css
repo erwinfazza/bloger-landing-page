@@ -116,3 +116,14 @@ h2 {
   padding-right: 100px;
   margin-right: 30px;
 }
+
+/* footer */
+footer {
+  border-radius: 0 60px 0 0;
+}
+p a {
+  text-decoration: none;
+}
+p a:hover {
+  border-bottom: 2px solid white;
+}
